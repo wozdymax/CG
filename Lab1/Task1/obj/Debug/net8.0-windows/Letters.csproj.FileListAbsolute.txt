@@ -1,0 +1,6 @@
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Leters.Form1.resources
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Letters.csproj.GenerateResource.cache
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Letters.AssemblyInfoInputs.cache
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Letters.AssemblyInfo.cs
+D:\Study\CG\Lab1\Task1\obj\Debug\net8.0-windows\Letters.csproj.CoreCompileInputs.cache

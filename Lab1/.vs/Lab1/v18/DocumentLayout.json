@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CG\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|d:\\study\\cg\\lab1\\task1\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|solutionrelative:task1\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|d:\\study\\cg\\lab1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|d:\\study\\cg\\lab1\\task1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|solutionrelative:task1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|d:\\study\\cg\\lab1\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E68C5E-0652-4B0D-A233-B6E975669D96}|Task1\\Letters.csproj|solutionrelative:task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab1\\Task1\\Form1.cs",
+              "RelativeDocumentMoniker": "Task1\\Form1.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab1\\Task1\\Form1.cs",
+              "RelativeToolTip": "Task1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:23:51.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab1\\Task1\\Letter.cs",
+              "RelativeDocumentMoniker": "Task1\\Letter.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab1\\Task1\\Letter.cs",
+              "RelativeToolTip": "Task1\\Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:23:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:23:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab1\\Task1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task1\\Form1.Designer.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab1\\Task1\\Form1.Designer.cs",
+              "RelativeToolTip": "Task1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:22:53.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

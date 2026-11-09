@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CG\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE137E60-3484-4C4F-8095-B523E7BCE98D}|SnubDodecahedron\\SnubDodecahedron.csproj|d:\\study\\cg\\lab4\\snubdodecahedron\\models\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE137E60-3484-4C4F-8095-B523E7BCE98D}|SnubDodecahedron\\SnubDodecahedron.csproj|solutionrelative:snubdodecahedron\\models\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE137E60-3484-4C4F-8095-B523E7BCE98D}|SnubDodecahedron\\SnubDodecahedron.csproj|d:\\study\\cg\\lab4\\snubdodecahedron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE137E60-3484-4C4F-8095-B523E7BCE98D}|SnubDodecahedron\\SnubDodecahedron.csproj|solutionrelative:snubdodecahedron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFED455-CCF0-4F50-96BC-048FC0D2497C}|Maze3D\\Maze3D.csproj|d:\\study\\cg\\lab4\\maze3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFED455-CCF0-4F50-96BC-048FC0D2497C}|Maze3D\\Maze3D.csproj|solutionrelative:maze3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF7367C-B366-4DB9-A9C7-1D6DA29F5976}|MobiusStrip\\MobiusStrip.csproj|d:\\study\\cg\\lab4\\mobiusstrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF7367C-B366-4DB9-A9C7-1D6DA29F5976}|MobiusStrip\\MobiusStrip.csproj|solutionrelative:mobiusstrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF7367C-B366-4DB9-A9C7-1D6DA29F5976}|MobiusStrip\\MobiusStrip.csproj|d:\\study\\cg\\lab4\\mobiusstrip\\windowapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF7367C-B366-4DB9-A9C7-1D6DA29F5976}|MobiusStrip\\MobiusStrip.csproj|solutionrelative:mobiusstrip\\windowapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab4\\SnubDodecahedron\\Models\\Vertex.cs",
+              "RelativeDocumentMoniker": "SnubDodecahedron\\Models\\Vertex.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab4\\SnubDodecahedron\\Models\\Vertex.cs",
+              "RelativeToolTip": "SnubDodecahedron\\Models\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:08:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab4\\SnubDodecahedron\\Program.cs",
+              "RelativeDocumentMoniker": "SnubDodecahedron\\Program.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab4\\SnubDodecahedron\\Program.cs",
+              "RelativeToolTip": "SnubDodecahedron\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:07:59.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab4\\Maze3D\\Program.cs",
+              "RelativeDocumentMoniker": "Maze3D\\Program.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab4\\Maze3D\\Program.cs",
+              "RelativeToolTip": "Maze3D\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:07:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab4\\MobiusStrip\\Program.cs",
+              "RelativeDocumentMoniker": "MobiusStrip\\Program.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab4\\MobiusStrip\\Program.cs",
+              "RelativeToolTip": "MobiusStrip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:06:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowApp.cs",
+              "DocumentMoniker": "D:\\Study\\CG\\Lab4\\MobiusStrip\\WindowApp.cs",
+              "RelativeDocumentMoniker": "MobiusStrip\\WindowApp.cs",
+              "ToolTip": "D:\\Study\\CG\\Lab4\\MobiusStrip\\WindowApp.cs",
+              "RelativeToolTip": "MobiusStrip\\WindowApp.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:06:43.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

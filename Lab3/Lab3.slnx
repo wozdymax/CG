@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AsteroidGame/AsteroidGame.csproj" />
+  <Project Path="Meadow/Meadow.csproj" />
+</Solution>
